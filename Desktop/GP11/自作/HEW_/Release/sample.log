@@ -1,0 +1,20 @@
+﻿  camera.cpp
+c:\users\duoduo\desktop\halgp\sample06_shadow\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  enemy.cpp
+c:\users\duoduo\desktop\halgp\sample06_shadow\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  input.cpp
+c:\users\duoduo\desktop\halgp\sample06_shadow\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  main.cpp
+c:\users\duoduo\desktop\halgp\sample06_shadow\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  meshfield.cpp
+c:\users\duoduo\desktop\halgp\sample06_shadow\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  meshwall.cpp
+c:\users\duoduo\desktop\halgp\sample06_shadow\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  model.cpp
+c:\users\duoduo\desktop\halgp\sample06_shadow\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  player.cpp
+c:\users\duoduo\desktop\halgp\sample06_shadow\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  renderer.cpp
+c:\users\duoduo\desktop\halgp\sample06_shadow\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  shadow.cpp
+c:\users\duoduo\desktop\halgp\sample06_shadow\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory

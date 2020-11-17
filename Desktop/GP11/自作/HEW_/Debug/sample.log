@@ -1,0 +1,4 @@
+﻿  enemy.cpp
+c:\users\own\desktop\gp11\自作\hew_\enemy.cpp(45): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\own\desktop\gp11\自作\hew_\enemy.cpp(47): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+  sample.vcxproj -> C:\Users\own\Desktop\GP11\自作\HEW_\Debug\sample.exe
