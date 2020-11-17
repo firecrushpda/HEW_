@@ -1,0 +1,4 @@
+﻿C:\Users\own\Desktop\GP11\selectmenu\dwrite sample\Downloadable_fonts__DirectWrite__sample\cpp\DWriteTextLayoutCloudFont\DWriteTextLayoutCloudFont.vcxproj : XamlCompiler error WMC1006: Cannot resolve Assembly or Windows Metadata file 'C:\Users\own\Desktop\GP11\selectmenu\dwrite sample\Downloadable_fonts__DirectWrite__sample\cpp\ARM\Release\DWriteTextLayoutCloudFontImplementation\DWriteTextLayoutCloudFontImplementation.winmd'
+  pch.cpp
+c:\users\own\desktop\gp11\selectmenu\dwrite sample\downloadable_fonts__directwrite__sample\cpp\dwritetextlayoutcloudfont\pch.cpp : fatal error C1192: #using が 'C:\Users\own\Desktop\GP11\selectmenu\dwrite sample\Downloadable_fonts__DirectWrite__sample\cpp\ARM\Release\DWriteTextLayoutCloudFontImplementation\DWriteTextLayoutCloudFontImplementation.winmd'
+          '指定されたパスが見つかりません。' で失敗しました

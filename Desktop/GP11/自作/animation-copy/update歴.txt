@@ -1,0 +1,26 @@
+2020/11/11 确定DX11无法使用DWRITE 废弃两种DWRITE方法 dwritegomi.cpp
+           确认使用imgui 设置流程
+2020/11/12 成功创建窗口
+			
+	   具体流程：
+1 导入库 + imgui_impl_dx11 + imgui_impl_win32
+  头文件
+  #include "imgui/imgui.h"
+  #include "imgui/imgui_impl_win32.h"
+  #include "imgui/imgui_impl_dx11.h"
+
+2 在device，devieccontent和hwnd创建之后，初始化InitUIComponnetSetup（）
+
+3 开始imgui帧
+  ImGui_ImplDX11_NewFrame();
+  ImGui_ImplWin32_NewFrame();
+  ImGui::NewFrame();
+
+  结束imgui帧
+  ImGui::Render();
+  ImGui_ImplDX11_RenderDrawData(ImGui::GetDrawData());
+  
+4 API相关
+  https://github.com/ocornut/imgui
+  https://qiita.com/kkent030315/items/36064c8066b1b965d10a#%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8F
+  https://ithelp.ithome.com.tw/articles/10246595

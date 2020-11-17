@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  BinaryResources.cpp
+  CommandLineArgs.cpp
+  CustomFontSetManager.cpp
+  Document.cpp
+  DWriteCustomFontSets.cpp
+  FileHelper.cpp
+  FontDownloadListener.cpp
+  PackedFontFileLoader.cpp
+  Statics.cpp
+  コードを生成中...
+  DWriteCustomFontSets.vcxproj -> C:\Users\own\Desktop\GP11\selectmenu\dwrite sample\Basic_DirectWrite_custom_fonts_set_sample\cpp\x64\Debug\DWriteCustomFontSets.exe

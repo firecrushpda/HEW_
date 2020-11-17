@@ -1,0 +1,5 @@
+范例
+https://docs.microsoft.com/en-us/samples/browse/?redirectedfrom=MSDN-samples&terms=%20DirectWrite 
+
+jioahcneg
+https://docs.microsoft.com/en-us/windows/win32/directwrite/getting-started-with-directwrite
